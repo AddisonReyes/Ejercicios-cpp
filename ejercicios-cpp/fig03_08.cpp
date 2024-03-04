@@ -1,4 +1,4 @@
-// Fig. 2.8: fig03_08.cpp
+// Fig. 3.8: fig03_08.cpp
 // Lanzamiento de un dado 6000 veces
 #include <iostream>
 #include <stdlib.h>
